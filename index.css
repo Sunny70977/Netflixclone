@@ -1,0 +1,256 @@
+
+body{
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+    opacity: 0.8;
+   
+    
+ 
+}
+.front{
+    height: 680px;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(file:///C:/Users/Sunny%20Kumar/OneDrive/Desktop/PYTHON/Netflix/netflix.jpg);
+    background-size: cover;
+
+  
+    
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    position: absolute;
+}
+img{
+    height: 100px; 
+    margin-left: 100px; 
+    
+    
+}
+.text{
+   font-style: normal;
+    margin-top: 190px;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+   margin-left: 330px;
+   
+   
+}
+.text2{
+    margin-top: 300px;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+   margin-left: 490px;
+   
+   align-content: center;
+   
+}
+.text3{
+    margin-top: 350px;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   margin-left: 380px;
+}
+.button{
+    border-color: white;
+    border-width: 2px;
+    color:white;
+    margin-left: 900px;
+    height: 40px;
+    font-size: large;
+    border-radius: 5px;
+    background-color:unset;
+   
+ 
+   
+
+}
+
+.signin{
+    background-color: red;
+    height: 35px;
+    color: aliceblue;
+    font-size: large;
+    border-radius: 5px;
+    height: 40px;
+
+}
+.input{
+    height: 52px;
+    width: 350px;
+    margin-top: 400px;
+    margin-left: 450px;
+    background-color: black;
+    opacity:0.8 ;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: white;
+ 
+   
+
+}
+.Getst{
+    font-size: x-large;
+    height: 58px;
+    width: 190px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    margin-left: 10PX;
+}
+::placeholder{
+    color: white;
+
+}
+.second{
+    height: 700px;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-size: cover;
+     position: relative;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    
+}
+.secondimage{
+    background-color: wheat;
+    height: 400px;
+    width: 400px;
+   margin-right: 50px;
+   background-image: url("mobile-0819.jpg");
+   background-size: cover;
+}
+.secondtext{
+    color: white;
+    font-size: 25px;
+
+}
+.line{
+    background-color: rgb(69, 68, 68);
+    height: 8px;
+}
+.thirddiv{   height: 700px;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-size: cover;
+     position: relative;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     position: relative;
+    
+
+}
+.video{
+   width: 800px;
+   height: 600px;
+   background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png);
+   background-size: cover;
+   position: relative;
+}
+.thirdtext{
+    color: white;
+    font-size: 25px;
+
+}
+.actualvideo{
+ margin-top: 150px; 
+ margin-left: 150px;  
+ position: absolute;
+ 
+}
+.footer{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inside{
+    
+    height: 700px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+
+}
+.question{
+    color: white;
+    font-size: 35px;
+    height: 90px;
+    width: 1000px;
+    background-color: rgb(69, 68, 68);
+padding: 20px;
+display: flex;
+justify-content:space-between;
+}
+
+.question1{
+    text-align: center;
+    color: white;
+    height: 70px;
+    width: 1000px;
+    font-size: 48px;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+.fraud{
+    margin-top: 20px;
+    color: white;
+
+    font-size: x-large;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.secondinput{
+    height: 55px;
+    width: 350px;
+    margin-top: 40px;
+    background-color: black;
+    opacity:0.8 ;
+    border: 2px;
+    border-color: white;
+    margin-bottom: 50px;
+ 
+}
+.last{
+    height: 00px;
+    background-color: black;
+    
+}
+
+.last{
+    display: flex;
+    justify-content: center;
+    margin-top: 30PX;
+    margin-left: 100PX;
+}
+.last1{
+text-decoration: underline;
+    color: white;
+   font-family: bold;
+    height: 380PX;
+    width: 300PX;
+    margin-top: 10PX;
+    padding-top: 20px;
+    
+}
+.text5{
+   margin-top: 20px;
+
+}
+.text6{
+    margin-top: 20px;
+}
+.last2{
+    padding-top: 45px;
+}
