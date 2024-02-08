@@ -10,7 +10,7 @@ body{
 }
 .front{
     height: 680px;
-    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://github.com/Sunny70977/Netflixclone/blob/main/netflix.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(netflix.jpg);
     background-size: cover;
 
   
